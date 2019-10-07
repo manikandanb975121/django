@@ -23,9 +23,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '!nqg9wu+w)2pzc803i5m%ey&ay+a3=y)cx%2s@irp@lk51wxgh'
 
 # SECURITY WARNING: don't run with debug turned on in production!
+SECRET_KEY='3794052875c6d91dbccdb6ae90803b982d4f101d16d15780'
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dnd-djangoapp.herokuapp.com']
 
 
 # Application definition
@@ -139,3 +140,4 @@ EMAIL_HOST_USER = 'manikandanb975121@gmail.com'
 EMAIL_HOST_PASSWORD = '06071999'
 
 #print(EMAIL_HOST_USER)
+#SECRET_KEY="3794052875c6d91dbccdb6ae90803b982d4f101d16d15780"
