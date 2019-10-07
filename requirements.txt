@@ -124,7 +124,6 @@ SpeechRecognition==3.8.1
 SQLAlchemy==1.2.19
 sqlparse==0.3.0
 srsly==0.0.5
-tensorflow==0.12.0
 terminado==0.8.2
 testpath==0.4.2
 thinc==6.12.1
