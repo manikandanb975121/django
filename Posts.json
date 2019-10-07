@@ -1,0 +1,122 @@
+[
+    {
+        "title":"Python",
+        "content":"DescriptionPython is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.",
+        "user_id":1
+    },
+    {
+        "title":"Django",
+        "content":"Django is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites.",
+        "user_id":2
+    },
+    {
+        "title":"Flask",
+        "content":"Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.",
+        "user_id":3
+    },
+    {
+        "title":"Java Programming language",
+        "content":"Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.",
+        "user_id":4
+    },
+    {
+        "title":"C++ Programming language",
+        "content":"C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes.",
+        "user_id":1
+    },
+    {
+        "title":"AngularJS",
+        "content":"AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.",
+        "user_id":2
+    },
+    {
+        "title":"React",
+        "content":"React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded.",
+        "user_id":3
+    },
+    {
+        "title":"Vue.js",
+        "Content":"Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. It is first created by Evan You, and now is maintained by him and the rest of the active core team members coming from various companies such as Netlify and Netguru.",
+        "user_id":4
+    },
+    {
+        "title":"Machine learning",
+        "Content":"Machine learning is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence",
+        "user_id":1
+    },
+    {
+        "title":"Artificial neural network",
+        "Content":"Artificial neural networks or connectionist systems are computing systems that are inspired by, but not identical to, biological neural networks that constitute animal brains. Such systems learn to perform tasks by considering examples, generally without being programmed with task-specific rules.",
+        "user_id":2
+    },
+    {
+        "title":"Chatbot",
+        "Content":"A chatbot is a piece of software that conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, although as of 2019, they are far short of being able to pass the Turing test",
+        "user_id":3
+    },
+    {
+        "title":"TensorFlow",
+        "Content":"TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks.",
+        "user_id":4
+    },
+    {
+        "title":"Google I/O",
+        "Content":"Google I/O is an annual developer conference held by Google in Mountain View, California. I/O was inaugurated in 2008, and is organized by the executive team. "I/O" stands for input/output, as well as the slogan Innovation in the Open. The event's format is similar to Google Developer Day.",
+        "user_id":1
+    },
+    {
+        "title":"web2py",
+        "Content":"Web2py is an open-source web application framework written in the Python programming language. Web2py allows web developers to program dynamic web content using Python.",
+        "user_id":2
+    },
+    {
+        "title":"Web scraping",
+        "Content":"Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser.",
+        "user_id":3
+    },
+    {
+        "title":"Malware Information Sharing Platform",
+        "Content":"Malware Information Sharing Platform is an open source threat intelligence platform. The project develops utilities and documentation for more effective threat intelligence, by sharing indicators of compromise. There are several organizations who run MISP instances, who are listed on the website.",
+        "user_id":4
+    },
+    {
+        "title":"JavaScript High-level programming language",
+        "Content":"JavaScript, often abbreviated as JS, is a high-level, interpreted scripting language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.",
+        "user_id":1
+    },
+    {
+        "title":"Bootstrap",
+        "Content":"Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.",
+        "user_id":2
+    },
+    {
+        "title":"HTML",
+        "Content":"Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
+        "user_id":3
+    },
+    {
+        "title":"Cascading Style Sheets",
+        "Content":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "user_id":4
+    },
+    {
+        "title":"jQuery",
+        "Content":"jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software using the permissive MIT License. As of May 2019, jQuery is used by 73% of the 10 million most popular websites.",
+        "user_id":1
+    },
+    {
+        "title":"Ajax",
+        "Content":"Ajax is a set of web development techniques using many web technologies on the client side to create asynchronous web applications. With Ajax, web applications can send and retrieve data from a server asynchronously without interfering with the display and behavior of the existing page.",
+        "user_id":2
+    },
+    {
+        "title":"SQL",
+        "Content":"SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.",
+        "user_id":3
+    },
+    {
+        "title":"PostgreSQL",
+        "Content":"PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and technical standards compliance. It is designed to handle a range of workloads, from single machines to data warehouses or Web services with many concurrent users.",
+        "user_id":4
+    }
+]
