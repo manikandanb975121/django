@@ -27,7 +27,7 @@ SECRET_KEY = '!nqg9wu+w)2pzc803i5m%ey&ay+a3=y)cx%2s@irp@lk51wxgh'
 SECRET_KEY='3794052875c6d91dbccdb6ae90803b982d4f101d16d15780'
 DEBUG = True
 
-ALLOWED_HOSTS = ['dnd-djangoapp.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -59,7 +59,7 @@ ROOT_URLCONF = 'django_project.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-          'DIRS': ['./templates/blog/',],
+          'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -143,6 +143,6 @@ EMAIL_HOST_PASSWORD = '06071999'
 #print(EMAIL_HOST_USER)
 #SECRET_KEY="3794052875c6d91dbccdb6ae90803b982d4f101d16d15780"
 
-DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
+#DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
-django_heroku.settings(locals())
+#django_heroku.settings(locals())
