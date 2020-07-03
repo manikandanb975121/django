@@ -27,7 +27,7 @@ SECRET_KEY = '!nqg9wu+w)2pzc803i5m%ey&ay+a3=y)cx%2s@irp@lk51wxgh'
 SECRET_KEY='3794052875c6d91dbccdb6ae90803b982d4f101d16d15780'
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangosample3.azurewebsites.net']
 
 
 # Application definition
